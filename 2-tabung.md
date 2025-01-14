@@ -1,4 +1,5 @@
 Start
+
  Input: tinggi
  Input: rusuk
 
@@ -8,4 +9,5 @@ Start
  luas = 2 * phi * rusuk * tinggi
 
  Output: luas
+ 
 End
