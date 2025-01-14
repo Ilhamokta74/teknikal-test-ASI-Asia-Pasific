@@ -15,4 +15,5 @@ START
 9. Gunakan rem jika ingin berhenti:
    - Tekan tuas rem perlahan hingga sepeda berhenti.
 10. Turunkan kaki untuk menopang sepeda saat berhenti.
+    
 STOP
