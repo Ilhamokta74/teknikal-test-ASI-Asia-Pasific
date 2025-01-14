@@ -1,4 +1,4 @@
-START
+Start
 
 1. Pastikan sepeda dalam kondisi baik:
    - Periksa tekanan ban.
