@@ -1,4 +1,5 @@
 START
+
 1. Pastikan sepeda dalam kondisi baik:
    - Periksa tekanan ban.
    - Periksa rem.
@@ -16,4 +17,4 @@ START
    - Tekan tuas rem perlahan hingga sepeda berhenti.
 10. Turunkan kaki untuk menopang sepeda saat berhenti.
     
-STOP
+End
